@@ -6,7 +6,8 @@
 <br/>
 
 [![UgurCanYildiz's github stats](https://github-readme-stats.vercel.app/api?username=UgurCanYildiz&theme=blue-green)](https://github.com/UgurCanYildiz/github-readme-stats)
-[![UgurCanYildiz's github trophy](https://github-profile-trophy.vercel.app/?username=UgurCanYildiz&row=1)](https://github.com/UgurCanYildiz/github-profile-trophy)
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UgurCanYildiz&theme=elegant)](https://git.io/streak-stats)
 
 ![spinning-donut-featured](https://c.tenor.com/rtRn9EH3lBMAAAAC/cartoon-ghost.gif)
 
