@@ -5,7 +5,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UgurCanYildiz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=UgurCanYildiz&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![spinning-donut-featured](https://c.tenor.com/_xcWWAZPKwsAAAAd/gif.gif)
+![spinning-donut-featured](https://c.tenor.com/rtRn9EH3lBMAAAAC/cartoon-ghost.gif)
 
 
 <!--
