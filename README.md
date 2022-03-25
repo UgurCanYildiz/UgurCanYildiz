@@ -4,7 +4,7 @@
 <br/>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UgurCanYildiz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=UgurCanYildiz&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/UgurCanYildiz/badges)
+
 
 
 
