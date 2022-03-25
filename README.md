@@ -7,6 +7,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-%03008B00.svg?style=for-the-badge&logo=C&logoColor=white)
 
+
 <br/>
 
 [![UgurCanYildiz's github stats](https://github-readme-stats.vercel.app/api?username=UgurCanYildiz&theme=blue-green)](https://github.com/UgurCanYildiz/github-readme-stats)
