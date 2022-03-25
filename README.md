@@ -1,5 +1,10 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UgurCanYildiz&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=UgurCanYildiz&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
 <!--
 **UgurCanYildiz/UgurCanYildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
