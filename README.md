@@ -11,15 +11,16 @@
 <br/>
 
 [![UgurCanYildiz's github stats](https://github-readme-stats.vercel.app/api?username=UgurCanYildiz&theme=blue-green)](https://github.com/UgurCanYildiz/github-readme-stats)
+![spinning-donut-featured](https://c.tenor.com/rtRn9EH3lBMAAAAC/cartoon-ghost.gif)
 <br>
 
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=UgurCanYildiz&theme=elegant" /></div>	
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UgurCanYildiz&theme=elegant)](https://git.io/streak-stats)
 
-![spinning-donut-featured](https://c.tenor.com/rtRn9EH3lBMAAAAC/cartoon-ghost.gif)
+
+
 
 
 
